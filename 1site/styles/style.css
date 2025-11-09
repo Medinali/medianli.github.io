@@ -1,0 +1,40 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: Noto + Serif;
+}
+h1 {
+  font-size: 45px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+p,
+li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: rgb(0, 0, 0);
+}
+html {
+  background-color: #03072c;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #6099ee;
+  padding: 0 20px 20px 20px;
+  border: 3px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
