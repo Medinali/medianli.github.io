@@ -40,7 +40,7 @@ const planetData = [
   {
     name: "Mercury",
     AU: 0.39,
-    speed: 0.05,
+    speed: 0.03,
     size: 0.9,
     speedInfo:
       " Around sun 88 days with the speed 47km/s. Around itself: 59 days, one day on Mercury=176 earth days.",
